@@ -1,1 +1,1 @@
-https://papermachine-k2l2kzbfe-go-ahead-makers-projects.vercel.app
+https://papermachine-a878h1d0a-go-ahead-makers-projects.vercel.app
